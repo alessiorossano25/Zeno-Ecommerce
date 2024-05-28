@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+.cartaProdotto{
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-top: 20px; 
+    margin-bottom: 40px;
+    background-color: whitesmoke
+    
+}
+
+.acquista{
+    background-color: #000000;
+    border-radius: 5px;
+}
+
+.acquista:hover{
+    background-color: #2f5ffe;
+}
+
+
+.meno{
+    background-color:#D3D3D3;
+}
+
+
+.btn-gradient-border {
+    color: rgba(var(--text-color));
+    border: 2px double transparent;
+        background-image: linear-gradient(rgb(13, 14, 33), rgb(13, 14, 33)), radial-gradient(circle at left top, rgb(1, 110, 218), rgb(217, 0, 192));
+    background-origin: border-box;
+    background-clip: padding-box, border-box;
+  }
+ 
+  btn-glow:hover {
+    box-shadow: rgba(var(--primary-color), 0.5) 0px 0px 20px 0px;
+  }

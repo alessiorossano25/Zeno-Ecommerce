@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+C:\Users\puric\Desktop\Ecommerce\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2786101474.index
+\Ecommerce\src\main\java
+C:\Users\puric\Desktop\Ecommerce\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1219975404.index
+\Ecommerce\src\main\java

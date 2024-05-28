@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+.card-body{
+background-color: black;
+color: aliceblue;
+
+}
+
+.card-img-top{
+    border-bottom: 2px solid white;
+}
+
+.cartina{
+	margin-bottom : 40px;
+	margin-top : 60px;
+}
